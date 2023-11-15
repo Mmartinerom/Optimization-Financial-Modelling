@@ -9,6 +9,8 @@ This repository contains Python scripts for estimating the expected return of a 
 - **StockRiskAnalysis_CAPM.py** Python script automating the download of monthly stock prices, calculating returns, obtaining Fama-French factors, and estimating the expected return using CAPM.
 
 - **CAPM_OLS_Regression.py:** Module for retrieving Fama-French three-factor model data and using regular OLS regression for CAPM Beta estimation.
+- **Frontera de Markowitz & portafolio de Tobin.ipynb:** Python performing financial portfolio optimization using the Markowitz framework in modern portfolio theory, aiming to maximize returns for a given level of risk
+- **Equilibrio General.ipynb:** Python script implementing a Lucas Tree model. The model describes the evolution of consumption and wealth over time and is particularly relevant in the context of pricing assets. The script considers multiple investors, each with different risk preferences, and solves for the optimal allocations and wealth dynamics.
 
 ## How to Use
 
