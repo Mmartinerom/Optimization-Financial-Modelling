@@ -6,9 +6,9 @@ This repository contains Python scripts for estimating the expected return of a 
 
 ## Contents
 
-- **CAPM_Return_Calculation_Nintendo.py:** Python script automating the download of monthly stock prices, calculating returns, obtaining Fama-French factors, and estimating the expected return using CAPM.
+- **StockRiskAnalysis_CAPM.py** Python script automating the download of monthly stock prices, calculating returns, obtaining Fama-French factors, and estimating the expected return using CAPM.
 
-- **getFamaFrenchFactors.py:** Module for retrieving Fama-French three-factor model data.
+- **CAPM_OLS_Regression.py:** Module for retrieving Fama-French three-factor model data and using regular OLS regression for CAPM Beta estimation.
 
 ## How to Use
 
